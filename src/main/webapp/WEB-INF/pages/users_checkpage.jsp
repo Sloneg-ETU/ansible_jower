@@ -12,7 +12,7 @@
     <title>Title</title>
 </head>
 <body>
-<spring:form modelAttribute="userFromServer" method="post" action="/user-system/users/check">
+<spring:form modelAttribute="userFromServer" method="post" action="/users/check">
     <spring:input path="loginName"/>
     <spring:input path="passWord"/>
     <spring:button>check user</spring:button>
