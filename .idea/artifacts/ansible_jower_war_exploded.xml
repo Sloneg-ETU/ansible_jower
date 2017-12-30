@@ -32,6 +32,8 @@
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.5.0" />
           <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.13" />
           <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.13" />
+          <element id="library" level="project" name="Maven: org.webjars:bootstrap:3.3.6" />
+          <element id="library" level="project" name="Maven: org.webjars:jquery:1.9.1" />
         </element>
       </element>
       <element id="directory" name="META-INF">
